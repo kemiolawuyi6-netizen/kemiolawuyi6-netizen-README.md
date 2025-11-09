@@ -1,0 +1,14 @@
+## Key Features & Technologies
+
+### Key Features
+- 5-minute micro-lessons that fit adult daily life
+- Decodable reading paths: syllables → words → sentences
+- Offline-first learning (works even with poor network)
+- Cultural + language relevance (mother tongue first)
+- Simple onboarding: zero digital literacy required
+
+### Technologies
+- Flutter mobile app (cross platform: Android & iOS)
+- Local SQLite for offline user progress storage
+- Cloud backend (Node.js/Firebase) for content + analytics
+- REST API for lessons + progress sync
